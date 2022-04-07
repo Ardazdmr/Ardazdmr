@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ardazdmr
-- 👀 I’m interested in software, football and swimming
+- 👀 I’m interested in software
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
